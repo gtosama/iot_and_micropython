@@ -1,0 +1,1 @@
+exec(open('connectwifi.py').read() , globals())
